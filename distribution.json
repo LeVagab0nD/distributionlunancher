@@ -413,8 +413,8 @@
           ]
         },
         {
-          "id": "squeek.appleskin:appleskin:2.4.3+mc1.19.4@jar",
-          "name": "AppleSkin",
+          "id": "squeek.appleskin:appleskin:2.4.3+mc1.20.1@jar",
+          "name": "CreateMod",
           "type": "ForgeMod",
           "artifact": {
             "size": 46976,
