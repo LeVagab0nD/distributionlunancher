@@ -9,8 +9,8 @@
   "servers": [
     {
       "id": "imaginatechsmp-1.20.1",
-      "name": "ImaginaTechSMP - Serveur Survie (Minecraft 1.20.1)",
-      "description": "ImaginaTechSMP - Serveur Survie (Minecraft 1.20.1)",
+      "name": "ImaginaTechSMP - Serveur Survie (1.20.1)",
+      "description": "ImaginaTechSMP - Serveur Survie (1.20.1)",
       "icon": "https://www.imaginatechsmp.fr/storage/img/logo.png",
       "version": "1.0.0",
       "address": "localhost:25565",
